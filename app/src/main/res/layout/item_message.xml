@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinearLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/messageTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/message_background"
+        android:textColor="#000000"
+        android:textSize="15sp"
+        android:padding="8dp"/>
+
+</LinearLayout>
+
